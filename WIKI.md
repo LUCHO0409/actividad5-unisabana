@@ -18,6 +18,12 @@ mas iteracciones
 <img width="921" height="493" alt="image" src="https://github.com/user-attachments/assets/21a7fa4d-6f74-4cd6-abab-763d31649d9d" />
 <img width="921" height="343" alt="image" src="https://github.com/user-attachments/assets/018e849a-cbac-4d5b-bbe9-3d3e61de2131" />
 <img width="921" height="352" alt="image" src="https://github.com/user-attachments/assets/219caba5-0d60-46e5-8e40-edff249f62b7" />
+<img width="921" height="364" alt="image" src="https://github.com/user-attachments/assets/a427dcfa-acc9-403b-af0e-b1d69baae598" />
+
+<img width="921" height="547" alt="image" src="https://github.com/user-attachments/assets/f1f76bd0-6994-479e-a5ad-cac78ec2d7f7" />
+
+<img width="921" height="364" alt="image" src="https://github.com/user-attachments/assets/45c18228-2f05-4c09-82bb-96a0705e52d8" />
+
 <img width="921" height="346" alt="image" src="https://github.com/user-attachments/assets/9b98ae78-2289-4494-9a78-9b2450d2c8b6" />
 
 
