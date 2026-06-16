@@ -12,10 +12,11 @@ pantallazos
 <img width="921" height="428" alt="image" src="https://github.com/user-attachments/assets/e8955e20-5fa6-46f1-9fa6-6c115e277fa7" />
 <img width="921" height="426" alt="image" src="https://github.com/user-attachments/assets/7b22fbff-be10-459b-a454-b8c583e497a2" />
 mas iteracciones
-
 <img width="921" height="356" alt="image" src="https://github.com/user-attachments/assets/9bdd26dd-bc51-41d8-b88b-178c09784834" />
 <img width="921" height="386" alt="image" src="https://github.com/user-attachments/assets/468f65c6-5f3e-48d8-85f5-e3b28c253fc8" />
 <img width="921" height="493" alt="image" src="https://github.com/user-attachments/assets/21a7fa4d-6f74-4cd6-abab-763d31649d9d" />
+<img width="921" height="346" alt="image" src="https://github.com/user-attachments/assets/a640eb7e-db14-4f83-b149-37ffef680599" />
+
 <img width="921" height="343" alt="image" src="https://github.com/user-attachments/assets/018e849a-cbac-4d5b-bbe9-3d3e61de2131" />
 <img width="921" height="352" alt="image" src="https://github.com/user-attachments/assets/219caba5-0d60-46e5-8e40-edff249f62b7" />
 
